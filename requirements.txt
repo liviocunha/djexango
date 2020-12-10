@@ -16,4 +16,5 @@ six==1.15.0
 soupsieve==2.0.1
 sqlparse==0.4.1
 whitenoise==5.2.0
+
 wxPython==4.1.1
