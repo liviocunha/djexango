@@ -1,9 +1,10 @@
 __pycache__
 *-*~
 *.pyc
-.idea
+.idea/
 venv
 db.sqlite3
 .env
+.env/
 staticfiles
 landingpage
