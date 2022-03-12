@@ -8,7 +8,7 @@ gunicorn==20.0.4
 mysql-connector-python==8.0.22
 mysqlclient==2.0.1
 numpy==1.19.4
-Pillow==8.1.1
+Pillow==9.0.1
 progressbar2==3.53.1
 protobuf==3.14.0
 PyMySQL==0.10.1
